@@ -17,10 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-## My process
-
-I am just starting to learn flexbox, so I did not use them in this work.
+- Flexbox
 
 ## Author
 
